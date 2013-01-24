@@ -1,4 +1,4 @@
 Team-Project
 ============
 
-Simon Says
+# Simon Says Game
